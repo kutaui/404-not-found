@@ -9,11 +9,11 @@ Mobile Size: 360 x 800
 
 <div align="center">
   <h3>
-    <a href="https://{kutaui.github.io/404-not-found/}">
+    <a href="https://kutaui.github.io/404-not-found/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://github.com/kutaui/404-not-found}">
+    <a href="https://https://github.com/kutaui/404-not-found">
       Solution
     </a>
     <span> | </span>
